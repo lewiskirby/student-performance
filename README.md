@@ -1,10 +1,14 @@
 # Student Performance Project
-A machine learning project looking into student performance.
+This is a classification and regression project looking into student performance in Portuguese and Maths classes using data from the UCI Machine Learning Repository. There are two datasets; one for each subject, and there is a crossover of 382 students between the two who can be identified by finding identical attricbutes.
 
-Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+Data source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
 
-
-## Section 0: Introduction
+## Project Overview
+* Collect data from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+* Data cleaning and management
+* Exploratory data analysis
+* Model building
+* Model evaluation
 
 This is a classification and regression project looking into student performance in Portuguese and Maths classes using data from the UCI Machine Learning Repository. There are two datasets; one for each subject, and there is a crossover of 382 students between the two who can be identified by finding identical attricbutes.
 
